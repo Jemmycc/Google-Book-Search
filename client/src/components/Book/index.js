@@ -21,7 +21,7 @@ function Book({ title, subtitle, authors, link, description, image, Button }) {
       </Row>
       <Row>
         <Col size="md-6">
-          <h8 className="authorTitle">Written by {authors}</h8>
+          <div className="authorTitle">Written by {authors}</div>
         </Col>
       </Row>
       <Row>

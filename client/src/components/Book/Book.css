@@ -8,12 +8,11 @@
   }
 }
 
-
 .bookTitle {
   margin-bottom: 10px;
   font-size: 28px;
   letter-spacing: 0.8px;
-
+  text-transform: uppercase;
 }
 
 .subTitle {
@@ -22,7 +21,7 @@
 }
 
 .authorTitle {
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 1.2px;
 }
 
@@ -32,6 +31,8 @@ img {
 
 p {
   margin-top: 15px;
+  font-family: 'Hind', sans-serif;
+  letter-spacing: 1.5px;
 }
 
 .viewBtn {
@@ -64,7 +65,6 @@ p {
   background-color: #fff;
   letter-spacing: 1.5px;
 }
-
 
 .btn {
   margin-top: 20px;
