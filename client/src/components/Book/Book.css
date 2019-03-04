@@ -1,0 +1,72 @@
+.btn-container {
+  float: right;
+}
+
+@media (max-width: 767px) {
+  .btn-container {
+    margin: 15px 0;
+  }
+}
+
+
+.bookTitle {
+  margin-bottom: 10px;
+  font-size: 28px;
+  letter-spacing: 0.8px;
+
+}
+
+.subTitle {
+  font-style: italic;
+  letter-spacing: 1.5px;
+}
+
+.authorTitle {
+    font-size: 12px;
+    letter-spacing: 1.2px;
+}
+
+img {
+  margin-top: 15px;
+}
+
+p {
+  margin-top: 15px;
+}
+
+.viewBtn {
+  letter-spacing: 1.5px;
+  color: rgb(142, 100, 195);
+}
+
+.saveBtn {
+  letter-spacing: 1.5px;
+}
+
+.viewBtn:hover {
+  background-color: rgb(142, 100, 195);
+  color: #fff;
+}
+
+.saveBtn:hover {
+  background-color: rgb(142, 100, 195);
+  color: #fff;
+}
+
+.deleteBtn {
+  background-color: rgb(226, 96, 92);
+  color: #fff;
+  letter-spacing: 1.5px;
+}
+
+.deleteBtn:hover {
+  color: rgb(226, 96, 92);
+  background-color: #fff;
+  letter-spacing: 1.5px;
+}
+
+
+.btn {
+  margin-top: 20px;
+  margin-left: 20px;
+}

@@ -1,0 +1,21 @@
+.jumbotron {
+  padding: 100px;
+  background-color: rgb(75, 73, 73);
+  background-image: url("/img/001.jpg");
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-size: cover; 
+}
+
+h1 {
+  font-family: 'Hind', sans-serif;
+  font-size: 38px;
+  letter-spacing: 1.2px;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+   letter-spacing: 0.6px;
+    color: #fff;
+}
